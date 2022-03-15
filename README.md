@@ -2,4 +2,4 @@
 - 👀 I’m interested in Ethcial hacking and pen-testing
 - 💼 I work as CEO for Webbstart Sweden and Senior Software engineer for an other company
 - 🌱 I’m currently learning website pentesting and PHP-exploitation
-- 📫 Reach my by email at jamie.blomerus.mail@gmail.com
+- 📫 Reach my by email at jamie.blomerus@protonmail.com
